@@ -136,6 +136,7 @@ Olá! sou desenvolvedor Web e estou focado em oferecer soluções que atendam à
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Higorhrs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+          
   />
 
 
