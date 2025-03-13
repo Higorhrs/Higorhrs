@@ -33,13 +33,13 @@ Olá! sou desenvolvedor Web e estou focado em oferecer soluções que atendam à
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" 
 />
 <img 
     align="left" 
     alt="SpringBoot"
     title="SpringBoot" 
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" 
 />
@@ -92,7 +92,38 @@ Olá! sou desenvolvedor Web e estou focado em oferecer soluções que atendam à
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" 
+/>
+<img 
+    align="left" 
+    alt="VScode" 
+    title="VScode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" 
+/>
+<img 
+    align="left" 
+    alt="Intellij" 
+    title="intellij"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" 
+/>
+<img 
+    align="left" 
+    alt="Eclipse" 
+    title="Eclipse"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" 
+/>
 <br/>
 <br/>
 
