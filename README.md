@@ -41,7 +41,7 @@ Olá! sou desenvolvedor Web e estou focado em oferecer soluções que atendam à
     title="SpringBoot" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1235868806079057921%2FfTL08u_H_400x400.png" 
+    src="[https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1235868806079057921%2FfTL08u_H_400x400.png](https://magickiat.wordpress.com/wp-content/uploads/2017/01/spring-boot-logo.png?w=640)" 
 />
 <img 
     align="left" 
