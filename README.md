@@ -107,6 +107,8 @@ Olá! sou desenvolvedor Web e estou focado em oferecer soluções que atendam à
     src="https://github-readme-stats.vercel.app/api?username=Higorhrs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+
+
 <img 
       align="left" 
       alt="GitHub Stats" 
