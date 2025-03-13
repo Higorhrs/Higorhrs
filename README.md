@@ -41,7 +41,7 @@ Olá! sou desenvolvedor Web e estou focado em oferecer soluções que atendam à
     title="SpringBoot" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://camo.githubusercontent.com/d6ad5d657e1b955836a94ee8f1251d05ee4961ae658bd2df777df3faff4a0925/68747470733a2f2f6d65646961322e6465762e746f2f64796e616d69632f696d6167652f77696474683d3830302532436865696768743d2532436669743d7363616c652d646f776e253243677261766974793d6175746f253243666f726d61743d6175746f2f68747470732533412532462532467062732e7477696d672e636f6d25324670726f66696c655f696d616765732532463132333538363838303630373930353739323125324666544c3038755f485f343030783430302e706e67](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" 
+    src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" 
 />
 <img 
     align="left" 
